@@ -1,2 +1,11 @@
-<h1>Welcome to My Portfolio</h1>
-<p>Shopify Developer | SEO Expert</p>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Alee Shopify Portfolio</title>
+</head>
+<body>
+    <h1>Hi, I'm Saqlain</h1>
+    <h2>Shopify Developer & SEO Expert</h2>
+    <p>Welcome to my portfolio website.</p>
+</body>
+</html>
